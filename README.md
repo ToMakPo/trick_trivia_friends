@@ -1,2 +1,2 @@
-# trick_trivia_friends
+# Trick Trivia Friends
 The online multiplayer game Trick Trivia.
